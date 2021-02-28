@@ -1,0 +1,3 @@
+displayName = Assembly Required: Marvel Meets Terraria
+author = Just Req
+version = 0.1
